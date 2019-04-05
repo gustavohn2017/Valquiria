@@ -1,6 +1,7 @@
-# ValquiriaBot é um chatbot para agendamento de tarefas e compromissos programado em JavaScript utilizando o NodeJS,
-destinada apenas para fins universitários. Operável, mas ainda não é totalmente funcional, alguns erros ainda podem acontecer.
+# ValquiriaBot - chatbot para agendamento de tarefas e compromissos
 
+ValquiriaBot é um chatbot para agendamento de tarefas e compromissos programado em JavaScript utilizando o NodeJS,
+destinada apenas para fins universitários. Operável, mas ainda não é totalmente funcional, alguns erros ainda podem acontecer.
 
 Bibliotecas necessárias: 
  1- axios (operações de html)
