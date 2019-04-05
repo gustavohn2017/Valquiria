@@ -17,3 +17,4 @@ Bibliotecas necessárias:
  
  
  
+Executar o bot na classe agenda.
