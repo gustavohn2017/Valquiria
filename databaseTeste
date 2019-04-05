@@ -1,0 +1,25 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Apresentação: bot secretária Valquíria",
+      "dt_previsao": "2019-05-04",
+      "dt_conclusao": null,
+      "observacao": "PROTÓTIPO, ainda não totalmente funcional."
+    },
+    {
+      "descricao": "Sabadão",
+      "dt_previsao": "2019-06-4",
+      "dt_conclusao": null,
+      "observacao": "Mas a semana de provas ainda não acabou...",
+      "id": 3
+    },
+    {
+      "descricao": "oi!",
+      "dt_previsao": null,
+      "dt_conclusao": null,
+      "observacao": null,
+      "id": 4
+    }
+  ]
+}
